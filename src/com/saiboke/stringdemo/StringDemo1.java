@@ -23,5 +23,6 @@ public class StringDemo1 {
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入一个字符串");
         String str1 = sc.next();
+        System.out.println("请输入用户名")；
     }
 }
